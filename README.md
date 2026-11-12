@@ -1,7 +1,7 @@
 # UCA-SLAM: Tightly Coupled Visual-LiDAR SLAM with DoF-wise Uncertainty-driven Constraint Analysis
 ## Status
 This paper has been **accepted for presentation at ICRA 2026** and will be **presented in Vienna in June 2026**. We look forward to **meeting and discussing our work with you** there.
-**The code is currently being organized and will be open-sourced soon.**
+**We are currently extending this work for a journal submission and plan to release the updated code once the extended work is complete.**
 
 ## Introduction
 **UCA-SLAM** 
